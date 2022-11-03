@@ -1,0 +1,19 @@
+.fullText{
+    color: #191970;
+}
+.details{
+    color: black;
+    font-size: 14px;
+}
+@media (min-width:319px) and (max-width:480px){
+    .details{
+        color: black;
+        font-size: 12px;
+        margin: 0px auto;
+    }
+    .mainContainer{
+        width: 94%;
+        margin-left:10px;
+        margin-right: 5px;
+    }
+}
